@@ -16,7 +16,7 @@ sudo bash ./step1.bash
 #catkin setup
 sudo mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src
-sudo source /opt/ros/indigo/setup.bash
+source /opt/ros/indigo/setup.bash
 sudo catkin_init_workspace
 cd ~/catkin_ws
 sudo catkin_make
