@@ -1,8 +1,5 @@
 #!/bin/bash -xve
 
-#get root
-sudo -s
-
 #required packages
 pip install catkin_pkg
 pip install empy
