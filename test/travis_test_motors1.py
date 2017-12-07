@@ -6,6 +6,7 @@ import time
 from pimouse_ros.msg import MotorFreqs
 from geometry_msgs.msg import Twist
 
+#test
 class MotorTest(unittest.TestCase):
 	def file_check(self, dev, value, message):
 		with open("/dev/" + dev, "r") as f:
