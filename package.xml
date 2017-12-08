@@ -56,8 +56,12 @@
   <build_export_depend>std_msgs</build_export_depend>
   <exec_depend>rospy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
+<<<<<<< HEAD
   <exec_depend>std_srvs</run_depend>
 
+=======
+  <exec_depend>std_srvs</exec_depend>
+>>>>>>> dev3
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
